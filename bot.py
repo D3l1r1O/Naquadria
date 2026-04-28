@@ -10,7 +10,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 TELEGRAM_TOKEN    = "8091049088:AAGdaZvda-lodHzKVetMUkhNncydcUwgMCY"
 COINGECKO_API_KEY = "CG-SP48Lum12MB5FrWx67qeBv6d"   # chiave Demo CoinGecko
 NEWSDATA_API_KEY  = "pub_f0c43893d9544330b832441f1d3edbb5"
-BOT_USERNAME      = "@NaquadaBot"
+BOT_USERNAME      = "@NaquadriaBot"
 
 # ID gruppo/canale per analisi automatica (opzionale)
 GRUPPO_ID         = None  # es. -1001234567890
